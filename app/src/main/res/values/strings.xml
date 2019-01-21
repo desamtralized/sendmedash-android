@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">SendMeDash</string>
+
+    <string name="address">Dash address</string>
+    <string name="share">Share</string>
+    <string name="amount">Amount (in Dash)</string>
+    <string name="instant_send">InstantSend</string>
+    <string name="label">Label</string>
+
+</resources>
